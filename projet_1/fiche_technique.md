@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+Chére Sasha
+
+## Créatrices
+
+Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
