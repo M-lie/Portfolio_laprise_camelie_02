@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+3 minutes
+
+## Créateurs
+
+Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin 
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
