@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+Musée de la vie
+
+## Créateur et créatrices
+
+Olivier Lalonde, Maloney Khim, Sounthida Kong, Rebecca Pilotte et Émilie Fontaine  
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
