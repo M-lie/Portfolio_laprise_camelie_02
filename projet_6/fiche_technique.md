@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+Distorsion collective
+
+## Créateurs 
+
+William Dubois et Ghislain Lacombe
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
