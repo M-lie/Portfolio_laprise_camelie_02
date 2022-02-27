@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+L'horloge de l'apocalyse
+
+## Créateurs 
+
+Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
