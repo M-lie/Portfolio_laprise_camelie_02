@@ -1,6 +1,6 @@
 ## Titre 
 
-Chére Sasha
+Chère Sasha
 
 ## Créatrices
 
