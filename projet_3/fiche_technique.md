@@ -1,6 +1,10 @@
 ## Titre 
 
-## Créateurs et créatrices
+Jeu Temporel
+
+## Créateurs
+
+Raphaël Fillion et Philippe Trudel
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
