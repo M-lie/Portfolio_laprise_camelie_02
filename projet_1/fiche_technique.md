@@ -20,8 +20,8 @@ L'installation est composée d'une pièce divisé en deux avec un grand lit divi
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image du schémas de chère Sasha](medias/schemas/schema_chere_sasha1.png)
-![image du schémas de chère Sasha](medias/schemas/schema_chere_sasha2.png)
-![image du schémas de chère Sasha](medias/schemas/schema_chere_sasha3.png)
+![image du schémas de branchement de chère Sasha](medias/schemas/schema_chere_sasha2.png)
+![image du schémas de branchement de chère Sasha](medias/schemas/schema_chere_sasha3.png)
 
 Ses images sont tirées du Github de Chère Sasha
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
