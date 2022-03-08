@@ -8,6 +8,9 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
+Le moyen principal pour aborder le temps dans l'exposition est de montrer clairement l'impact socio-politique et environnemental durant toute l'expérience. 
+
+
 ## Ambiance
 
 ## Installation en cours dans les studios (photos à l'appui)
