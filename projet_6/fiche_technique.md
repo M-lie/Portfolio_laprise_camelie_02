@@ -15,5 +15,6 @@ William Dubois et Ghislain Lacombe
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
+Dans ce projet, l'interacteur doit mettre un cas
 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
