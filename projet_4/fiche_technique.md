@@ -18,3 +18,6 @@ Olivier Lalonde, Maloney Khim, Sounthida Kong, Rebecca Pilotte et Émilie Fontai
 Dans ce projet, l'interacteur doit s'approcher des oeuvres pour que le rythme des oeuvres sur le mur change et en reculant, celui-ci va encore une fois changer.
 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
+ - Animation 2D
+ - Conception de projet multimédia
+ - Traitement vidéo
