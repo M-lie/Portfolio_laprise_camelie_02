@@ -13,10 +13,10 @@ William Dubois et Ghislain Lacombe
 ## Installation en cours dans les studios (photos à l'appui)
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-![image du schémas de Distortion collective](medias/schemas/distortion1.png)
-![image du schémas de branchement de Distortion collective](medias/schemas/distortion2.png)
+![image du schémas de Distorsion collective](medias/schemas/distorsion1.png)
+![image du schémas de branchement de Distorsion collective](medias/schemas/distorsion2.png)
 
-Ces images sont tirées du Github de Distortion collective
+Ces images sont tirées du Github de Distorsion collective
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 Dans ce projet, l'interacteur se retrouve dans un espace calme puis devra mettre un casque de réalité virtuelle pour créer une transition lorsque celui-ci enlèvera le casque pour se retrouver dans un univers lourd.
 
