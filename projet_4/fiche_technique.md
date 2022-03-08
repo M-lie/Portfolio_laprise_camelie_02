@@ -16,6 +16,8 @@ Dans l'exposition, le temps est symbolisé par l'eau. Plus l'utilisateur s'appro
 
 ## Installation en cours dans les studios (photos à l'appui)
 
+Tout d'abord, il y a un tapis rouge qui longe tout le long du mur afin de permettre à l'utilisateur de suivre le chemin pour voir les différents tableaux. Ce dernier est éclairé par une faible lumière de tout son long. Un projecteur situé sur la herse est utilisé afin de mettre sur le mur les différents tableaux. Pour ce qui est du son, deux hauts parleurs sont utilisés pour diffuser les sons et musiques nécessaires à l'expérience. Pour finir, juste devant le mur, il se trouvait un téléphone soutenu par une sorte de trépied. 
+
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image du schémas du musée de la vie](medias/schemas/chronaufrage1.png)
 ![image du schémas de branchement du musée de la vie](medias/schemas/chronaufrage2.png)
