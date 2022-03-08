@@ -15,6 +15,7 @@ Olivier Lalonde, Maloney Khim, Sounthida Kong, Rebecca Pilotte et Émilie Fontai
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image du schémas du musée de la vie](medias/schemas/chronaufrage1.png)
 ![image du schémas de branchement du musée de la vie](medias/schemas/chronaufrage2.png)
+Ses images sont tirées du Github de chère Sasha
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 Dans ce projet, l'interacteur doit s'approcher des oeuvres pour que le rythme des oeuvres sur le mur change et en reculant, celui-ci va encore une fois changer.
 
