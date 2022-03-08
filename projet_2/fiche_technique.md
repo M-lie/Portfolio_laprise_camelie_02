@@ -19,5 +19,8 @@ Le concept du temps est utilisé pour montrer à l'utilisateur l'histoire de deu
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
-Dans ce projet, l'interacteur doit entrer dans une petite pièce qui est sensé représenter un casier. 
+Dans ce projet, il y a un jeu de réalité virtuelle où pour introduire donc l'interacteur devra y jouer avant de se diriger vers une petite pièce. l'interacteur doit entrer et aller s'assoire dans un casier. 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
+ - Réalité virtuelle
+ - Modélisation 3D
+ - Conception sonore
