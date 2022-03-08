@@ -8,6 +8,8 @@ Raphaël Fillion et Philippe Trudel
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
+Le concept du temps est utilisé afin de sensibiliser l'utilisateur aux dangers des changements climatiques. Plus l'utilisateur aura de mauvaises réponses, plus l'animateur va changer d'apparence au fil du temps. 
+
 ## Ambiance
 
 ## Installation en cours dans les studios (photos à l'appui)
