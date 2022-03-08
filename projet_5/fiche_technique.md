@@ -13,7 +13,10 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 ## Installation en cours dans les studios (photos à l'appui)
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![image du schémas de l'horloge de l'apocalyse](medias/schemas/horloge_apocalypse1.png)
+![image du schémas de branchement de l'horloge de l'apocalypse](medias/schemas/horloge_apocalypse2.png)
 
+Ces images sont tirées du Github de l'horloge de l'apocalypse
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 Dans ce projet, l'interacteur doit bouger les aiguilles de l'horloge pour se déplacer dans les différents univers et époques présentés. À la fin de l'expérience, une caméra film l'individu et le projette sur les murs de la pièce.
 
