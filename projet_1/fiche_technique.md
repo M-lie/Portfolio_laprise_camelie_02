@@ -21,5 +21,8 @@ L'installation est composée d'une pièce divisé en deux avec un grand lit divi
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
-
+Dans ce projet, l'interactrice doit écouter le vidéo de Sasha puis ensuite aller écrire un message pour celle-ci.
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
+ - Conception vidéo
+ - Conception sonore
+ - Conception de projet multimédia
