@@ -12,6 +12,8 @@ Le thème du temps est mis en valeur en créant un contraste générationnel. Du
 
 ## Ambiance
 
+L'ambiance créée par le décor de la chambre de Sasha lorsqu'elle est adolescente montre à quel point elle se fait négliger par ses parents et montre au public l'état de sa santé mentale qui est mauvaise. Le bordel présent dans la chambre amplifie le sentiment d'inconfort face à son état. Chaque objet présent est de couleur sombre et la trame sonore composée de bruits de tonerre et de respirations fortes rajoute un côté de solitude à l'exposition. Alors que l'ambiance créée par la chambre de Sasha lorsqu'elle est adulte est complètement différente. La trame sonore composée de rire et de discussion met le public dans un environnememt amical et beaucoup plus chaleureux. L'état de la chambre qui est bien rangé et composée de couleurs épurées montre que sa vie va beaucoup mieux et qu'elle la reprise en main. 
+
 ## Installation en cours dans les studios (photos à l'appui)
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
