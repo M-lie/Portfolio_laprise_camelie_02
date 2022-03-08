@@ -8,6 +8,8 @@ Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
+Le concept du temps est utilisé pour montrer à l'utilisateur l'histoire de deux amoureux, Laurence et Simon, qui se sont séparés suite à un évènement qui a bouleversé leurs vies. Le public est amené a découvrir l'origine de leur séparation. 
+
 ## Ambiance
 
 ## Installation en cours dans les studios (photos à l'appui)
