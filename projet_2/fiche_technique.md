@@ -19,7 +19,10 @@ Au début de l'expérience, l'utilisateur ressent du plaisir et s'amuse en jouan
 Dans les herses se trouve un projecteur qui renvoie une lumière puissante pour créer un cercle de lumière au sol. Le casier se trouve dans le côté droit de l'installation. Juste avant se trouve un détecteur de mouvement qui permet d'aviser lorsque l'interacteur s'approche de la deuxième partie de l'expérience. De plus, au niveau du son, c'est une expérience octophonique. À l'extérieur du casier se trouve quatre hauts parleurs, puis quatre autres à l'intérieur de celui-ci. La première partie de l'expérience est faite à l'aide d'un casque VR ainsi que de deux manettes. 
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![image du schémas de 3 minutes](medias/schemas/3_minutes1.png)
+![image du schémas de 3 minutes](medias/schemas/3_minutes2.png)
 
+Ces sont tirées du Github de 3 minutes
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
 Dans ce projet, il y a un jeu de réalité virtuelle où pour introduire donc l'interacteur devra y jouer avant de se diriger vers une petite pièce. l'interacteur doit entrer et aller s'assoire dans un casier. 
