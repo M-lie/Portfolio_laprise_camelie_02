@@ -8,13 +8,15 @@ Raphaël Fillion et Philippe Trudel
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
-Le concept du temps est utilisé afin de sensibiliser l'utilisateur aux dangers des changements climatiques. Plus l'utilisateur aura de mauvaises réponses, plus l'animateur va changer d'apparence au fil du temps. 
+Le concept du temps est utilisé afin de sensibiliser l'utilisateur aux dangers des changements climatiques. Plus l'utilisateur aura de bonnes réponses, plus l'animateur va changer de ton et être un peu déçu de ne pas pouvoir prouver que l'utilisateur est en tord. Dans le cas contraire, l'animateur sera davantage arrogant et finira par détruire le monde. L'apparence de l'AI changera également au fil de l'expérience à l'aide de quatre types de glitchs différents.
 
 ## Ambiance
 
 L'ambiance au tout début du jeu est festive et pleine de couleurs afin de lui faire croire qu'elle participera à un jeu agréable. Au fur et à mesure que l'expérience continue, l'ambiance change de plus en plus ayant pour but de faire sentir à l'utilisateur une pression liée aux changements climatques. Le changement de comportement et les glitchs incorporés au visage de l'AI au fil de l'expérience amplifie également cette pression. 
 
 ## Installation en cours dans les studios (photos à l'appui)
+
+Au centre de l'installation se trouve un podium où se trouve les questions et les choix de réponses en plus des boutons pour y répondre. Au niveau du son, il y avait deux speakers des deux côtés qui vont projeter la musique du jeu. Pour ce qui est des lumières,
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
