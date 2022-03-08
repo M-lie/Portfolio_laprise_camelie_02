@@ -18,3 +18,6 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 Dans ce projet, l'interacteur doit bouger les aiguilles de l'horloge pour se déplacer dans les différents univers et époques présentés. À la fin de l'expérience, une caméra film l'individu et le projette sur les murs de la pièce.
 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
+ - Espace interactif
+ - Conception sonore
+ - Animation 2D
