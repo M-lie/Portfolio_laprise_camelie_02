@@ -20,7 +20,7 @@ Dans les herses se trouve un projecteur qui renvoie une lumière puissante pour 
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image du schémas de 3 minutes](medias/schemas/3_minutes1.png)
-![image du schémas de 3 minutes](medias/schemas/3_minutes2.png)
+![image du schémas de branchement de 3 minutes](medias/schemas/3_minutes2.png)
 
 Ces sont tirées du Github de 3 minutes
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
