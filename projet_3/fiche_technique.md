@@ -12,6 +12,8 @@ Le concept du temps est utilisé afin de sensibiliser l'utilisateur aux dangers 
 
 ## Ambiance
 
+L'ambiance au tout début du jeu est festive et pleine de couleurs afin de lui faire croire qu'elle participera à un jeu agréable. Au fur et à mesure que l'expérience continue, l'ambiance change de plus en plus ayant pour but de faire sentir à l'utilisateur une pression liée aux changements climatques. Le changement de comportement et les glitchs incorporés au visage de l'AI au fil de l'expérience amplifie également cette pression. 
+
 ## Installation en cours dans les studios (photos à l'appui)
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
