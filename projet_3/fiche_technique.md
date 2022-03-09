@@ -12,7 +12,7 @@ Le thème du temps est utilisé afin de sensibiliser l'utilisateur aux dangers d
 
 ## Ambiance
 
-L'ambiance au tout début du jeu est festive et colorée afin de faire croire à l'utilisateur qu'il participe à un jeu agréable. Cependant, au fur et à mesure que l'expérience avance, l'ambiance change davantage pour faire ressentir une certaine pression liée aux changements climatiques à l'interacteur. Le changement de comportement ainsi que les glitchs incorporés graduellement au visage de l'AI amplifie également cette pression.
+L'ambiance au tout début du jeu est festive et colorée afin de faire croire à l'utilisateur qu'il participe à un jeu agréable. Cependant, au fur et à mesure que l'expérience avance, l'ambiance change davantage pour faire ressentir une certaine pression liée aux changements climatiques à l'interacteur. Le changement de comportement ainsi que les *glitchs* incorporés graduellement au visage de l'AI amplifie également cette pression.
 
 ## Installation en cours dans les studios 
 
