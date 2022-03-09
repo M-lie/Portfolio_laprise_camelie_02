@@ -46,4 +46,4 @@ Dans ce projet, nous devrons d'abord, pendant trois minutes, jouer au ballon cha
 
 Github
 
-[Lien vers le github de 3 minutes](https://github.com/tim-montmorency/66B-modele_de_projet)
+[Lien vers le Github de 3 minutes](https://github.com/tim-montmorency/66B-modele_de_projet)
