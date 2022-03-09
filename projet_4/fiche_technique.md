@@ -1,6 +1,6 @@
 ## Titre 
 
-Musée de la vie
+Chronaufrage
 
 ## Créateur et créatrices
 
@@ -18,18 +18,18 @@ Dans l'exposition, le temps est symbolisé par l'eau. Plus l'utilisateur s'appro
 
 Il y a d'abord un tapis rouge qui longe le mur afin de permettre à l'utilisateur de suivre le chemin menant à l'observation des différents tableaux exposés. Ce dernier est éclairé par une faible lumière de tout son long. Un projecteur situé sur la herse est utilisé afin d'accrocher sur le mur les divers tableaux. Pour ce qui est du son, deux haut-parleurs sont utilisés pour diffuser les sons ainsi que les musiques nécessaires à l'expérience. Pour finir, en face du mur, se trouve un téléphone soutenu par une sorte de trépied. 
 
-**Image de l'installation de Musée de la vie**
-![image de l'installation en cours de Musée de la vie](medias/photographies/photo_installation_projet_4.jpg)
+**Image de l'installation de Chronaufrage**
+![image de l'installation en cours de Chronaufrage](medias/photographies/photo_installation_projet_4.jpg)
 
-**Image de la projection de Musée de la vie**
-![image de l'installation en cours de Musée de la vie](medias/photographies/photo_installation_projet_4.2.jpg)
+**Image de la projection de Chronaufrage**
+![image de l'installation en cours de Chronaufrage](medias/photographies/photo_installation_projet_4.2.jpg)
 
 ## Schéma de l'installation prévue
 
-![image du schéma de Musée de la vie](medias/schemas/chronaufrage1.png)
-![image du schéma de branchement de Musée de la vie](medias/schemas/chronaufrage2.png)
+![image du schéma de Chronaufrage](medias/schemas/chronaufrage1.png)
+![image du schéma de branchement de Chronaufrage](medias/schemas/chronaufrage2.png)
 
-Ces images sont tirées du Github de Musée de la vie.
+Ces images sont tirées du Github de Chronaufrage.
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
@@ -45,4 +45,4 @@ Dans ce projet, nous devrons nous approcher ainsi que nous reculer des oeuvres s
 
 Github
 
-[Lien vers le Github de Musée de la vie](https://github.com/Blobduckies/Chronaufrage)
+[Lien vers le Github de Chronaufrage](https://github.com/Blobduckies/Chronaufrage)
