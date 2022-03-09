@@ -18,8 +18,8 @@ Dans l'exposition, le temps est symbolisé par l'eau. Plus l'utilisateur s'appro
 
 Il y a d'abord un tapis rouge qui longe le mur afin de permettre à l'utilisateur de suivre le chemin menant à l'observation des différents tableaux exposés. Ce dernier est éclairé par une faible lumière de tout son long. Un projecteur situé sur la herse est utilisé afin d'accrocher sur le mur les divers tableaux. Pour ce qui est du son, deux haut-parleurs sont utilisés pour diffuser les sons ainsi que les musiques nécessaires à l'expérience. Pour finir, en face du mur, se trouve un téléphone soutenu par une sorte de trépied. 
 
-![image de l'installation de Musée de la vie](medias/photographies/photo_installation_projet_4.jpg)
-![image de l'installation de Musée de la vie](medias/photographies/photo_installation_projet_4.2.jpg)
+![image de l'installation en cours de Musée de la vie](medias/photographies/photo_installation_projet_4.jpg)
+![image de l'installation en cours de Musée de la vie](medias/photographies/photo_installation_projet_4.2.jpg)
 
 ## Schéma de l'installation prévue
 
