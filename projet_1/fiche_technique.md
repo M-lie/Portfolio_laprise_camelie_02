@@ -37,3 +37,8 @@ Dans ce projet, nous devrons écouter la vidéo de Sasha, puis aller écrire un 
  - Conception vidéo
  - Conception sonore
  - Conception de projet multimédia
+
+## Références
+
+Github de l'équipe 
+[Lien vers le github de Chère Sasha](https://github.com/task-tim/Chere-Sasha)
