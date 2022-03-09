@@ -26,4 +26,20 @@ Le projet est intéressant et il n’est pas mis en sixième place parce que je 
 
 ## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
 
+1. Le jeu temporel
+
+Je crois que ce que je vais ressentir en jouant à leur jeu c’est du plaisir, mais aussi de la frustration. Je vais être heureuse si j’ai les bonnes réponses, mais frustrée si j’ai les mauvaises. De plus, si je réussis à gagner, je me sentirais fière, mais aussi beaucoup plus sensibilisée à l’impact environnemental. 
+
+2. Chère Sasha 
+
+Je crois que ce que je vais ressentir c’est sans aucun doute de la tristesse. Je trouverais ça dommage que des parents traitent de la sorte leur fille alors qu’elle n’a pas choisi d’avoir cette orientation sexuelle. Je vais ressentir aussi beaucoup de compassion parce que je me reconnais en Sasha et sa situation.
+
+3. L’horloge de l’apocalypse 
+
+Je crois que ce que je vais ressentir en essayant leur horloge c’est de la fascination honnêtement. Je trouve leurs dessins et leurs musiques juste incroyables et tellement appropriés. De plus, tout comme le jeu temporel, je vais me sentir sensibilisée à l’impact environnemental que cause l’humain. 
+
+4. Le musée de la vie 
+
+Je crois que ce que je vais ressentir c’est beaucoup de fascination face à leur projet, mais aussi un peu de culpabilité en voyant la fille du tableau s’agiter à cause de ma présence. Mais, mis à part de la culpabilité, je vais aussi ressentir de la compassion parce que je me reconnais en elle.
+
 ## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
