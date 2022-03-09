@@ -40,6 +40,14 @@ Je crois que ce que je vais ressentir en essayant leur horloge c’est de la fas
 
 4. Le musée de la vie 
 
-Je crois que ce que je vais ressentir c’est beaucoup de fascination face à leur projet, mais aussi un peu de culpabilité en voyant la fille du tableau s’agiter à cause de ma présence. Mais, mis à part de la culpabilité, je vais aussi ressentir de la compassion parce que je me reconnais en elle.
+Je crois que ce que je vais ressentir c’est beaucoup de fascination face à leur projet vu la beauté des dessins, mais aussi un peu de culpabilité en voyant la fille du tableau s’agiter à cause de ma présence. Mais, mis à part de la culpabilité, je vais aussi ressentir de la compassion parce que je me reconnais en elle.
+
+5. 3 minutes
+
+Je crois que ce que je vais ressentir c'est de l'amusement au tout début de l'expérience. Mais, plus l'expérience avancera, plus je me sentirais angoissée avec l'ambiance qui changera vers une ambiance plus pesante étant donné que ça simule l'intimidation. 
+
+6. Distorsion collective 
+
+Honnêtement, je ne pense pas ressentir grand chose au tout début du projet. Mais, dès que l'adolescent commencera à paniquer et que les battements de coeurs s'accélèront, je ressentirais sans aucun doute de l'anxité et beaucoup de pression. 
 
 ## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
