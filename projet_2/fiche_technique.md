@@ -18,9 +18,9 @@ Au début de l'expérience, l'utilisateur ressent du plaisir et s'amuse en jouan
 
 Dans les herses, on trouve un projecteur qui renvoie une lumière puissante pour ainsi créer un cercle de lumière au sol. Le casier se trouve dans la petite pièce dissimulée à droite de la station dédiée à la réalité virtuelle. À l'intérieur se trouve un détecteur de mouvement qui permet d'aviser lorsque l'interacteur s'approche de la deuxième partie du projet. De plus, au niveau du son, c'est une expérience octophonique. À l'extérieur du casier se trouve quatre hauts parleurs ainsi que quatre autres à l'intérieur de celui-ci. La première partie de l'expérience se fait à l'aide d'un casque VR et de deux manettes. 
 
-![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet2.jpg)
-![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet2.2.jpg)
-![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet2.3.jpg)
+![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet_2.jpg)
+![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet_2.2.jpg)
+![image de l'installation de 3 minutes](medias/photographies/photo_installation_projet_2.3.jpg)
 
 ## Schéma de l'installation prévue 
 
@@ -31,7 +31,7 @@ Ces images sont tirées du Github de 3 minutes.
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
-Dans ce projet, il y a un jeu de réalité virtuelle où pour introduire donc l'interacteur devra y jouer avant de se diriger vers une petite pièce. l'interacteur doit entrer et aller s'assoire dans un casier. 
+Dans ce projet, l'interacteur devra d'abord, pendant trois minutes, jouer au ballon chasseur en réalité virtuelle dans le but de toucher le plus de cibles, puis il devra se diriger vers une petite pièce pour s'enfermer dans un casier durant également trois minutes. 
 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
 
