@@ -40,5 +40,6 @@ Dans ce projet, nous devrons écouter la vidéo de Sasha, puis aller écrire un 
 
 ## Références
 
-Github de l'équipe 
+Github 
+
 [Lien vers le github de Chère Sasha](https://github.com/task-tim/Chere-Sasha)
