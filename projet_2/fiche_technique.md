@@ -20,8 +20,10 @@ Dans les herses, on trouve un projecteur qui renvoie une lumière puissante pour
 
 **Image de la pièce menant au casier**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.jpg)
+
 **Image de l'espace réservé au projet 2**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.2.jpg)
+
 **Image de l'endroit où se déroulera l'expérience VR**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.3.jpg)
 
