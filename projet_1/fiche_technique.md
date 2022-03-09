@@ -16,17 +16,24 @@ L'ambiance créée par le décor de la chambre de Sasha lorsqu'elle est adolesce
 
 ## Installation en cours dans les studios (photos à l'appui)
 
+![image de l'installation en cours de Chère Sasha](medias/photographies/photo_installation_projet_1.jpg)
+
 L'installation est composée d'une pièce divisé en deux avec un grand lit divisé également en deux. La partie illuminée de la pièce représente la vie adulte de Sasha tandis que la partie sombre sa vie d'adolescente. Chaque espace contient des objets qui correspondent à l'ambiance de l'époque spécifiée. Pour ce qui est du son, quatre hauts-parleurs sont placés sur les murs ; deux du côté gauche et deux du côté droit. Pour ce qui est de la lumière, il y a des guirlandes de lumière accrochées du côté droit de l'installation ainsi que des projecteurs situés dans les herses. Pour finir, un ordinateur sera mis à la disposition des intéracteurs afin qu'ils puissent écrire un message d'encouragement à Sasha.
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-![image du schémas de chère Sasha](medias/schemas/schema_chere_sasha1.png)
-![image du schémas de branchement de chère Sasha](medias/schemas/schema_chere_sasha2.png)
-![image du schémas de branchement de chère Sasha](medias/schemas/schema_chere_sasha3.png)
 
-Ses images sont tirées du Github de Chère Sasha
+![image du schéma de Chère Sasha](medias/schemas/schema_chere_sasha1.png)
+![image du schéma de branchement de Chère Sasha](medias/schemas/schema_chere_sasha2.png)
+![image du schéma de branchement de Chère Sasha](medias/schemas/schema_chere_sasha3.png)
+
+Ces images sont tirées du Github de Chère Sasha. 
+
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
-Dans ce projet, l'interactrice doit écouter le vidéo de Sasha puis ensuite aller écrire un message pour celle-ci.
+
+Dans ce projet, l'interacteur doit écouter la vidéo de Sasha, puis aller écrire un message d'encouragement à celle-ci sur l'oridnateur fourni à ces fins.
+
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
+
  - Conception vidéo
  - Conception sonore
  - Conception de projet multimédia
