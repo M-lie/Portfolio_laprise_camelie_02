@@ -6,8 +6,8 @@
 5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédias n'est pas très bien expliquée et aurait pu être plus justifiable.
 6. Distorsion collective (projet 6), puisque je n'ai pas vraiment compris le but du projet ni sont lien avec le temps, donc celui-ci n'a pas vraiment attiré mon attention.
 
-## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+## Ce que je pense ressentir en expériementant chacune des installations
 Pour le projet Chère Sasha, je pense que je vais ressentir beaucoup de compassion lorsque j'expérimenterai l'installation puisque je suis une personne très empathique et son histoire semble triste. Dans le projet 3 minutes, je crois que je vais me sentir très inconfortable puisque j'ai de la difficulté à être dans de petits endroits et l'ambiance du projet semble lourde. Pour le projet du Jeu temporel, je crois que je vais beaucoup aimer et que je vais me sentir à l'aise puisque le jeu semble amusant. Pour le musée de la vie, je pense que je vais me sentir calme puisque le décor est similaire à un musée et je me sens apaisée lorsque je vais dans ce genre d'endroit. Pour l'horloge de l'apocalypse, je peense que je vais ressentir des émotions différentes tout dépendamment de l'heure à laquelle se trouvera l'aiguille et je pense que ce sera une expérience très amusante. Pour Distortion collective, je crois que je vais ressentir de la nostalgie puisque leur projet à un lien avec la pandémie et cela va me rappeler le moment avant la pandémie.
 
-## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+## Le rôle que je crois que je jouerai dans un tel projet, lorsque je serai en 3e année
 Lorsque je serai en troisième année et que je devrai faire ce projet, je crois que mon rôle sera de faire la conception sonore et le montage vidéo puisque ces éléments m'intéressent beaucoup. De plus, j'aime beaucoup créer des choses lorsqu'il est question de montage donc je crois que je m'amuserai beaucoup.
