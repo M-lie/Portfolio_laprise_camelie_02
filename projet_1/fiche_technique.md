@@ -30,7 +30,7 @@ Ces images sont tirées du Github de Chère Sasha.
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
-Dans ce projet, l'interacteur doit écouter la vidéo de Sasha, puis aller écrire un message d'encouragement à celle-ci sur l'oridnateur fourni à ces fins.
+Dans ce projet, nous devrons écouter la vidéo de Sasha, puis aller écrire un message d'encouragement à celle-ci sur l'oridnateur fourni à ces fins.
 
 ## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet 
 
