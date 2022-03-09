@@ -16,7 +16,7 @@ L'ambiance au tout début du jeu est festive et colorée afin de faire croire à
 
 ## Installation en cours dans les studios 
 
-![image de l'installation de Jeu Temporel](medias/photographies/photo_installation_projet_3.jpg)
+![image de l'installation en cours de Jeu Temporel](medias/photographies/photo_installation_projet_3.jpg)
 
 Au centre de l'installation se trouve un podium où s'affichent les questions et les choix de réponses à répondre grâce aux boutons. Quant au son, il y a deux haut-parleurs sur trépied des deux côtés qui vont diffuser la musique du jeu. Pour ce qui est de l'animateur, il va se déplacer tout le long du cyclorama où un fond personnalisé sera projeté.
 
