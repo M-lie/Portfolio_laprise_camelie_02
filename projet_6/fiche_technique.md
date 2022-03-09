@@ -36,3 +36,9 @@ Dans ce projet, nous nous retrouvons d'abord dans un univers calme où nous devr
  - Réalité virtuelle
  - Conception de projet
  - Traitement vidéo
+
+## Références
+
+Github
+
+[Lien vers le Github de Distorsion collective](https://github.com/Freakout-Programs/Distorsion-collective/)
