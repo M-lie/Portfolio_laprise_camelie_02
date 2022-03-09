@@ -13,6 +13,34 @@ Le moyen principal pour aborder le temps dans l'exposition est de montrer claire
 
 ## Ambiance
 
+Les ambiances diffèrent selon l'heure de l'horloge :
+
+1- Scène 1h 
+
+Une ambiance assez calme et reposante avec une musique calme également qui va avec. L'interacteur se sent en sécurité et apaisé. 
+
+2- Scène 2h 
+
+Une ambiance très axée sur la nature et les animaux. Ils ont pour but de recréer une ambiance paradisiaque avec une musique dans le même thème. 
+
+3- Scène 3h
+
+Une ambiance préhistorique où l'utilisateur se sent comme dans une sorte de caverne. La musique utilisée est également dans le même thème de la caverne et la préhistoire. 
+
+4- Scène 4h 
+
+Une ambiance très hivernal où le public se sent comme dans le grand nord avec les vikings. La musique utilisée est de type grégorienne. 
+
+5- Scène 5h 
+
+Une ambiance très médiévale où l'interacteur se sent comme s'il faisait parti d'un village de la même époque. La musique utilisée est de style moyen-âge.
+
+6- Scène 6h 
+
+Une ambiance qui se rapproche de la Renaissance qui donne l'impression au public d'être en Italie et la musique utilisée est également dans le même thème que la Renaissance. 
+
+
+
 ## Installation en cours dans les studios (photos à l'appui)
 
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
