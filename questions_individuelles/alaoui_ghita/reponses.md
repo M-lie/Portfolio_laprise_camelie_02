@@ -1,5 +1,29 @@
 ## Les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré), avec justification
 
+1. Le jeu temporel 
+
+Le jeu temporel est celui que j’ai le plus aimé et celui que j’ai le plus hâte d’essayer, car l’idée est vraiment intéressante. J’ai toujours adoré les jeux télévisés et c’est exactement ça leur exposition. De plus, leur équipe me semble une des plus organisées et une des plus ambitieuses et cela me plaît. Le résultat sera définitivement bon et j’ai bien hâte de voir ça. 
+
+2. Chère Sasha 
+
+Ce qui me plaît dans l’exposition de Chère Sasha est leur manière de montrer l’impact du temps. L’idée de montrer les deux étapes de vie d’une adolescente ayant eu de nombreux problèmes avec sa famille et prouver que tout ça n’est que temporaire et que, en grandissant, tout va pour le mieux est un très beau message et je me reconnais là dedans. De plus, l’idée de pouvoir laisser des messages d’encouragements à Sasha est très originale. 
+
+3. L’horloge de l’apocalypse 
+
+J’ai adoré les différentes scènes et je trouve que toutes les musiques qui ont été créées pour marchent vraiment bien et sont efficaces. Le seul bémol qui me fait moins  aimer l’expérience c’est qu’elle aura lieu dans un aussi petit studio. La beauté des dessins devraient pouvoir être affichée dans un plus grand espace pour réellement être admirée. De plus, le petit espace rend le nombre de spectateurs limité et je trouve ça dommage. Mis à part ce détail minime, très beau projet et j’ai bien hâte de l’essayer ! 
+
+4. Le musée de la vie 
+
+Le concept de l’eau qui s’agite à mesure que l’utilisateur s’approche de la toile est très intéressant. Je trouve aussi que les dessins sont magnifiques et bien pensés. Le seul bémol c’est que je n’ai pas l’impression que cette exposition se démarque réellement des autres. On ne peut pas réellement l’essayer contrairement aux autres. J’ai peur que sa simplicité lui donne la place d’une simple œuvre de transition où l’utilisateur passerait devant, trouverait ça beau, et continuerait son chemin vers la prochaine exposition.
+5. 3 minutes 
+
+Je ne préfère pas réellement ce projet à celui mis en sixième place. Ce qui l’as démarqué c’est qu’ils ont su changer complètement d’idée et se diriger vers quelque chose de différent qui pourrait mieux marcher. En effet, au début, leur projet portait sur deux amoureux qui se séparaient et on voyait leur histoire. Intéressant, mais sans plus. Alors que maintenant,  l’idée de représenter l’intimidation de la manière dont ils le font est bien mieux et rend leur projet bien plus intéressant. 
+
+6. Distorsion collective 
+
+Le projet est intéressant et il n’est pas mis en sixième place parce que je ne l’aime pas. Je trouve juste que leur projet aurait pu mieux-être développé et pousser plus loin. J’ai peur que l’utilisateur trouve l’expérience trop redondante vu le nombre de répétions présentes dans leur projet. Cependant, j’ai quand même hâte de l’essayer, car c’est un projet qui me rejoins étant donné que j’ai vécu le confinement de la même manière qu’ils veulent le présenter.
+
+
 ## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
 
 ## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
