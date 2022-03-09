@@ -22,10 +22,10 @@ Au centre de l'installation se trouve un podium où s'affichent les questions et
 
 ## Schéma de l'installation prévue 
 
-![image du schéma de Jeu temporel](medias/schemas/jeu_temporel1.png)
-![image du schéma de branchement de Jeu temporel](medias/schemas/jeu_temporel2.png)
+![image du schéma de Jeu Temporel](medias/schemas/jeu_temporel1.png)
+![image du schéma de branchement de Jeu Temporel](medias/schemas/jeu_temporel2.png)
 
-Ces images sont tirées du Github de Jeu temporel. 
+Ces images sont tirées du Github de Jeu Temporel. 
 
 ## Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
@@ -41,4 +41,4 @@ Dans ce projet, nous devrons nous positionner devant un podium où seront affich
 
 Github
 
-[Lien vers le Github de Jeu temporel](https://github.com/Orbital3/Jeu-Temporel)
+[Lien vers le Github de Jeu Temporel](https://github.com/Orbital3/Jeu-Temporel)
