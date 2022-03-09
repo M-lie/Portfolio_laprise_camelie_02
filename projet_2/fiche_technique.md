@@ -14,7 +14,7 @@ Le thème du temps est utilisé pour montrer que le temps passe plus vite lorsqu
 
 Au début de l'expérience, l'utilisateur ressent du plaisir et s'amuse en jouant au ballon chasseur en réalité virtuelle. Il se sent heureux et donc en sécurité. Lorsque la partie finit, l'interacteur est amené à enlever son casque VR pour se diriger vers le casier situé un peu plus loin. Une fois dans le casier, une ambiance angoissante s'installe. En effet, les lumières s'éteignent et une trame sonore composée d'insultes se dirigent directement vers l'utilisateur afin de simuler une intimidation. Être à l'intérieur du casier donne une impression d'étouffement à l'interacteur qui se reflète à de la claustrophobie. 
 
-## Installation en cours dans les studios (photos à l'appui)
+## Installation en cours dans les studios 
 
 Dans les herses, on trouve un projecteur qui renvoie une lumière puissante pour ainsi créer un cercle de lumière au sol. Le casier se trouve dans la petite pièce dissimulée à droite de la station dédiée à la réalité virtuelle. À l'intérieur se trouve un détecteur de mouvement qui permet d'aviser lorsque l'interacteur s'approche de la deuxième partie du projet. De plus, au niveau du son, c'est une expérience octophonique. À l'extérieur du casier se trouve quatre hauts parleurs ainsi que quatre autres à l'intérieur de celui-ci. La première partie de l'expérience se fait à l'aide d'un casque VR et de deux manettes. 
 
