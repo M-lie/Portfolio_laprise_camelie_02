@@ -51,3 +51,5 @@ Je crois que ce que je vais ressentir c'est de l'amusement au tout début de l'e
 Honnêtement, je ne pense pas ressentir grand chose au tout début du projet. Mais, dès que l'adolescent commencera à paniquer et que les battements de coeurs s'accélèront, je ressentirais sans aucun doute de l'anxité et beaucoup de pression. 
 
 ## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+
+Le rôle que j'aimerais occuper lorsque je serais en troisième année serait soit coordonatrice de projet ou monteuse vidéo. J'aimerais être coordonatrice, car j'aime m'assurer que tout est bien fait et prêt à temps. Pour ce qui est du montage vidéo, j'adore en faire et j'aime m'améliorer avec de la pratique.
