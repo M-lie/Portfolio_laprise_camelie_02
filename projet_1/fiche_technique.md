@@ -42,4 +42,4 @@ Dans ce projet, nous devrons écouter la vidéo de Sasha, puis aller écrire un 
 
 Github 
 
-[Lien vers le github de Chère Sasha](https://github.com/task-tim/Chere-Sasha)
+[Lien vers le Github de Chère Sasha](https://github.com/task-tim/Chere-Sasha)
