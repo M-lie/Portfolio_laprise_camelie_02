@@ -66,7 +66,6 @@ L'exposition se déroule dans le petit studio qui est complètement insonorisé.
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.jpg)
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.2.jpg)
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.3.jpg)
-![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.4.jpg)
 
 ## Schéma de l'installation prévue 
 
