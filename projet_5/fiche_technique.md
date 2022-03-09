@@ -8,7 +8,7 @@ Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit
 
 ## Moyen utilisé pour aborder le thème du *temps* 
 
-Le moyen principal pour aborder le temps dans l'exposition est de montrer clairement l'impact socio-politique et environnemental durant toute l'expérience. 
+Le moyen principal pour aborder le temps dans l'exposition est de montrer clairement l'impact socio-politique et environnemental durant toute l'expérience. Au début de l'exposition, tout est relativement calme et plus l'horloge avance dans le temps, plus le public sera amené à expérimenter des environnements de plus en plus angoissants qui ont pour but de sensibiliser les gens pour l'environnement et est amené à comprendre qu'il faut agir pour sauver le monde. 
 
 
 ## Ambiance
