@@ -36,3 +36,9 @@ Dans ce projet, nous devrons nous positionner devant un podium où seront affich
  - Espace interactif
  - Conception de projet multimédia
  - Communication graphique
+
+## Références 
+
+Github
+
+[Lien vers le Github ](https://github.com/Orbital3/Jeu-Temporel)
