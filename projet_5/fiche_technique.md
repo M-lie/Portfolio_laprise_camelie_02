@@ -63,6 +63,7 @@ Une ambiance apocalyptique qui se rapproche de l'enfer qui met l'utilisateur en 
 
 L'exposition se déroule dans le petit studio qui est complètement insonorisé. Sur les murs sont diffusés les différentes scènes par le projecteur accroché au plafond. Au centre se trouve l'horloge posée sur un piédestal romain et juste à côté se trouve le téléphone qui n'est utile que vers la fin de l'expérience. Au niveau de l'audio, quatre haut-parleurs sont utilisés pour les différentes trames sonores. 
 
+**Image de l'installation**
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.jpg)
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.2.jpg)
 ![image de l'installation en cours de L'horloge de l'apocalyse](medias/photographies/photo_installation_projet_5.3.jpg)
@@ -83,3 +84,13 @@ Dans ce projet, nous devrons bouger les aiguilles de l'horloge pour se déplacer
  - Espace interactif
  - Conception sonore
  - Animation 2D
+
+## Références 
+
+Github
+
+[Lien vers le Github de L'horloge de l'apocalypse](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+
+Vidéo de préproduction
+
+[Lien Youtube vers la vidéo de préproduction de L'horloge de l'apocalypse](https://www.youtube.com/watch?v=Ly4eBT3RRIA)
