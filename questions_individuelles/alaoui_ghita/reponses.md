@@ -12,7 +12,7 @@ Ce qui me plaît dans l’exposition de Chère Sasha est leur manière de montre
 
 J’ai adoré les différentes scènes et je trouve que toutes les musiques qui ont été créées pour accompagner chaque image marchent vraiment bien et sont efficaces. Le seul bémol qui me fait moins aimer l’expérience c’est qu’elle aura lieu dans un aussi petit studio. La beauté des dessins devraient pouvoir être affichée dans un plus grand espace pour réellement être admirée. De plus, le petit espace rend le nombre de spectateurs limité et je trouve ça dommage. Mis à part ce détail minime, très beau projet et j’ai bien hâte de l’essayer ! 
 
-4. Le musée de la vie 
+4. Chronaufrage
 
 Le concept de l’eau qui s’agite à mesure que l’utilisateur s’approche de la toile est très intéressant. Je trouve aussi que les dessins sont magnifiques et bien pensés. Le seul bémol c’est que je n’ai pas l’impression que cette exposition se démarque réellement des autres. On ne peut pas réellement l’essayer contrairement aux autres. J’ai peur que sa simplicité lui donne la place d’une simple œuvre de transition où l’utilisateur passerait devant, trouverait ça beau, et continuerait son chemin vers la prochaine exposition.
 
@@ -25,7 +25,7 @@ Je ne préfère pas réellement ce projet à celui mis en sixième place. Ce qui
 Le projet est intéressant et il n’est pas mis en sixième place parce que je ne l’aime pas. Je trouve juste que leur projet aurait pu mieux-être développé et pousser plus loin. J’ai peur que l’utilisateur trouve l’expérience trop redondante vu le nombre de répétions présentes dans leur projet. Cependant, j’ai quand même hâte de l’essayer, car c’est un projet qui me rejoins étant donné que j’ai vécu le confinement de la même manière qu’ils veulent le présenter.
 
 
-## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+## Ce que je crois que je vais ressentir en expériementant chacune des installations
 
 1. Le jeu temporel
 
@@ -39,7 +39,7 @@ Je crois que ce que je vais ressentir c’est sans aucun doute de la tristesse. 
 
 Je crois que ce que je vais ressentir en essayant leur horloge c’est de la fascination honnêtement. Je trouve leurs dessins et leurs musiques juste incroyables et tellement appropriés. De plus, tout comme le jeu temporel, je vais me sentir sensibilisée à l’impact environnemental que cause l’humain. 
 
-4. Le musée de la vie 
+4. Chronaufrage
 
 Je crois que ce que je vais ressentir c’est beaucoup de fascination face à leur projet vu la beauté des dessins, mais aussi un peu de culpabilité en voyant la fille du tableau s’agiter à cause de ma présence. Mais, mis à part de la culpabilité, je vais aussi ressentir de la compassion parce que je me reconnais en elle.
 
@@ -51,6 +51,6 @@ Je crois que ce que je vais ressentir c'est de l'amusement au tout début de l'e
 
 Honnêtement, je ne pense pas ressentir grand chose au tout début du projet. Mais, dès que l'adolescent commencera à paniquer et que les battements de coeurs s'accélèront, je ressentirais sans aucun doute de l'anxité et beaucoup de pression. 
 
-## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+## Le rôle que je crois que je jouerai dans un tel projet, lorsque je serai en 3e année
 
 Le rôle que j'aimerais occuper lorsque je serais en troisième année serait soit coordonatrice de projet ou monteuse vidéo. J'aimerais être coordonatrice, car j'aime m'assurer que tout est bien fait et prêt à temps. Pour ce qui est du montage vidéo, j'adore en faire et j'aime m'améliorer avec de la pratique.
