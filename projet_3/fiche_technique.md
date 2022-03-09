@@ -41,4 +41,4 @@ Dans ce projet, nous devrons nous positionner devant un podium où seront affich
 
 Github
 
-[Lien vers le Github ](https://github.com/Orbital3/Jeu-Temporel)
+[Lien vers le Github de Jeu temporel](https://github.com/Orbital3/Jeu-Temporel)
