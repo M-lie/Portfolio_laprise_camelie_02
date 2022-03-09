@@ -62,6 +62,8 @@ Une ambiance apocalyptique qui se rapproche de l'enfer qui met l'utilisateur en 
 
 ## Installation en cours dans les studios (photos à l'appui)
 
+L'exposition se déroule dans le petit studio qui est complètement insonorisé. Sur les murs seront diffusés les différentes scènes par le projecteur qui est accroché au plafond. Au centre se trouve l'horloge posée sur un piédestal romain et juste à côté se trouve le téléphone qui servira uniquement que vers la fin de l'expérience. Au niveau de l'audio, quatre hauts parleurs sont utilisés pour les différentes trames sonores. 
+
 ## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image du schémas de l'horloge de l'apocalyse](medias/schemas/horloge_apocalypse1.png)
 ![image du schémas de branchement de l'horloge de l'apocalypse](medias/schemas/horloge_apocalypse2.png)
