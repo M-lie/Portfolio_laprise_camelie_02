@@ -1,5 +1,13 @@
 ## Les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré), avec justification
+1. l'horloge de l'apocalypse (projet 5), puisque le projet est très original et regroupe plusieurs éléments du multimédia comme la conception sonore ou bien l'illustration 2D.
+2. Chère Sasha (projet 1), puisque le temps est utilisé de manière très originale et présente un sujet très touchant.
+3. Jeu temporel (projet 3), puisqu'il est très original et semble amusant pour les utilisateurs. De plus il y a beaucoup d'élément en lien avec le multimédia, surtout au niveau de la programmation.
+4. Musée de la vie (projet 4), puisque le sujet est très original mais ne permet pas assez  à l'utilisateur d'intéragir avec l'oeuvre.
+5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédia n'est pas très bien expliqué et aurait pu est plus justifiable.
+6. Distorsion collective (projet 6), Je n'ai pas vraiment compris le but du projet ni sont lien avec le temps, donc celui-ci n'a pas vraiment attiré mon attention.
 
 ## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+Pour le projet chère Sasha, je pense que je vais ressentir beaucoup de compation lorsque j'expérimenterai l'installation puisque je suis une personne très empathique et son histoire semble triste. Dans le projet 3 minutes, je crois que je vais me sentir très inconfortable puisque j'ai de la difficulter à être dans de petit endroit et l,ambiance du projet semble lourde. Pour le projet du Jeu temporel, je crois que je vais beaucoup aimer et me sentir à l'aise puisque le jeu semble amusant. Pour le musée de la vie je pense que je vais me sentir calme puisque le décore est similaire à un musée et je me sens apaisée lorsque je vais dans ce genre d'endroit. Pour l'horloge de l'apocalypse, je peense que je vais ressentir des émotions différentes tout dépendamment de l'heure à laquelle se trouvera l'aiguille et je pense que ce sera une expérience très amusante. POur Distortion collective, je crois que je vais ressentir de la nostalgie puisque leur projet à un lien avec la pendémie et cela va me rappeler le moment avant la pendémie.
 
 ## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+Lorsque je serai en troisième année et que je devrai faire ce projet, je crois que mon rôle sera de faire la conception sonore et le montage vidéo puisque ces éléments m'intéressent beaucoup. De plus, j'aime beaucoup créer des choses lorsqu'il est question de montage donc je crois que m'amuserai beaucoup.
