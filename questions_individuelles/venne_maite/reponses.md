@@ -1,6 +1,6 @@
 ## Les projets ordonnés selon ma préférence actuelle 
 1. L'horloge de l'apocalypse (projet 5), puisque le projet est très original et regroupe plusieurs éléments du multimédia comme la conception sonore ou bien l'illustration 2D.
-2. Chère Sasha (projet 1), puisque le temps est utilisé de manière très originale et présente un sujet très touchant.
+2. Chère Sasha (projet 1), puisque le temps est utilisé de manière très originale et présente un sujet très touchant. De plus, je le décor est très immersif et c'est quelque chose que j'aime beaucoup.
 3. Jeu temporel (projet 3), puisqu'il est très original et semble amusant pour les utilisateurs. De plus, il y a beaucoup d'éléments en lien avec le multimédia; surtout au niveau de la programmation.
 4. Chronaufrage (projet 4), puisque le sujet est très original mais ne permet pas assez à l'utilisateur d'intéragir avec l'oeuvre.
 5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédias n'est pas très bien expliquée et aurait pu être plus justifiable.
