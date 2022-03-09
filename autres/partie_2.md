@@ -1,10 +1,10 @@
-## Une technique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+## Une technique qui sera utilisée dans l'une des oeuvres et que nous ne connaissions pas
 
 L’équipe du projet 3 présentant *Jeu Temporel* utilise la projection d’images sur une surface, c’est-à-dire les murs formant le cyclorama dans le grand studio pour animer leur présentateur de télé-réalité. Pour ce faire, les membres de l’équipe utilisent le logiciel *MadMapper*. Tout commence par l’importation d’une image, d’une vidéo QT ou d’un élément de *Syphon*, dont la structure, aussi dit *framework*, est la fondation du logiciel en question. Par la suite, on va faire correspondre cette dite source à plusieurs surfaces géométriques qui seront finalement jointes à la zone affichant la vidéoprojection. 
 
 ![image de Mad Mapper](medias/photographies/photo_madmapper.jpg)
 
-## Une composante technologique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+## Une composante technologique qui sera utilisée dans l'une des oeuvres et que nous ne connaissions pas
 
 L’équipe du projet 1 présentant *Chère Sasha* se sert d’une composante technologique nommée *Arduino Nano* pour réaliser leur projet. En effet, cette dernière se présente comme une version réduite et similaire à la fameuse carte électronique connu sous le nom d’*Arduino UNO. Arduino Nano* se caractérise par son chargeur de démarrage intégré, son mini port USB remplaçant la prise de courant DC, sa carte offrant une compatibilité complète avec les composants électroniques ayant un câble USB Mini-B ainsi que sa plaque privilégiant l’ensemble des projets où la taille est importante. Cette petite carte est composée du microcontrôleur *ATMega328* proposant diverses facultés tels que l’affichage de caractères sur un écran, l’envoie de données à un appareil et etc. De plus, une fois l’*Arduino Nano* connecté par l’entremise d’un câble USB à un ordinateur portable, il peut facilement produire des travaux de programmation grâce à son grand nombre de fonctionnalités électroniques, en plus de se servir du microcontrôleur. C’est également de cette manière qu’il est possible de transférer un programme dans cette composante. 
 
