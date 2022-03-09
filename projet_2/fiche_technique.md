@@ -18,8 +18,11 @@ Au début de l'expérience, l'utilisateur ressent du plaisir et s'amuse en jouan
 
 Dans les herses, on trouve un projecteur qui renvoie une lumière puissante pour ainsi créer un cercle de lumière au sol. Le casier se trouve dans la petite pièce dissimulée à droite de la station dédiée à la réalité virtuelle. À l'intérieur se trouve un détecteur de mouvement qui permet d'aviser lorsque l'interacteur s'approche de la deuxième partie du projet. De plus, au niveau du son, c'est une expérience octophonique. À l'extérieur du casier se trouve quatre hauts parleurs ainsi que quatre autres à l'intérieur de celui-ci. La première partie de l'expérience se fait à l'aide d'un casque VR et de deux manettes. 
 
+**Image de la pièce menant au casier**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.jpg)
+**Image de l'espace réservé au projet 2**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.2.jpg)
+**Image de l'endroit où se déroulera l'expérience VR**
 ![image de l'installation en cours de 3 minutes](medias/photographies/photo_installation_projet_2.3.jpg)
 
 ## Schéma de l'installation prévue 
@@ -38,3 +41,9 @@ Dans ce projet, nous devrons d'abord, pendant trois minutes, jouer au ballon cha
  - Réalité virtuelle
  - Modélisation 3D
  - Conception sonore
+
+## Références
+
+Github
+
+[Lien vers le github de 3 minutes](https://github.com/tim-montmorency/66B-modele_de_projet)
