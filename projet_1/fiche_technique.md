@@ -14,13 +14,13 @@ Le thème du temps est mis en valeur en créant un contraste générationnel. Du
 
 L'ambiance créée par le décor de la chambre de Sasha lorsqu'elle est adolescente montre à quel point elle se fait négliger par ses parents ainsi que l'état de sa santé mentale qui se détériore. Le bordel présent dans la chambre amplifie le sentiment d'inconfort face à son état. Chaque objet présent est de couleur sombre et la trame sonore composée de bruits de tonerre et de respirations fortes rajoute un côté de solitude à l'exposition. Alors que, l'ambiance créée dans la chambre de Sasha adulte est complètement différente. La trame sonore composée de rire et de discussion met le public dans un environnememt amical et davantage chaleureux. L'état de la chambre bien rangé et couvert de couleurs épurées prouve que sa vie va beaucoup mieux dorénavant. 
 
-## Installation en cours dans les studios (photos à l'appui)
+## Installation en cours dans les studios 
 
 ![image de l'installation en cours de Chère Sasha](medias/photographies/photo_installation_projet_1.jpg)
 
 L'installation est composée d’une pièce divisée en deux dont le lit qui se présente comme étant l'objet central de celle-ci. La partie illuminée de la pièce représente la vie adulte de Sasha tandis que, la partie sombre sa vie d'adolescente. Chaque espace contient des objets qui correspondent à l'ambiance de l'époque spécifiée. Pour ce qui est du son, quatre haut-parleurs sont placés sur les murs ; deux du côté gauche ainsi que deux du côté droit. De plus, il y a des guirlandes de lumière accrochées du côté droit de l'installation ainsi que des projecteurs situés dans les herses. Pour finir, un ordinateur sera mis à la disposition des interacteurs afin qu'ils puissent écrire un message d'encouragement à Sasha.
 
-## Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## Schéma de l'installation prévue 
 
 ![image du schéma de Chère Sasha](medias/schemas/schema_chere_sasha1.png)
 ![image du schéma de branchement de Chère Sasha](medias/schemas/schema_chere_sasha2.png)
