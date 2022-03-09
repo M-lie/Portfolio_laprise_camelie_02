@@ -39,6 +39,25 @@ Une ambiance très médiévale où l'interacteur se sent comme s'il faisait part
 
 Une ambiance qui se rapproche de la Renaissance qui donne l'impression au public d'être en Italie et la musique utilisée est également dans le même thème que la Renaissance. 
 
+7- Scène 7h 
+
+Une ambiance très industrielle où l'utilisateur sera au centre de plusieurs usines et sera entouré de pollution. Pour ce qui est de la musique, la trame sonore utilisée est plutôt angoissante. 
+
+8- Scène 8h 
+
+Une ambiance assez moderne où le public se sent comme dans une ruelle louche des années 80. La musique utilisée est très mystérieuse. 
+
+9- Scène 9h 
+
+Une ambiance très axée sur la guerre où l'utilisateur se sent comme en plein combat avec d'autres soldats et la musique utilisée est une musique de fanfare typique dans l'armée.
+
+10- Scène 10h
+
+Une ambiance assez sombre et angoisse où l'interacteur ne se sent pas du tout en sécurité et la musique assez lourde vient amplifier cette sensation là.
+
+11- Scène 11h 
+
+Une ambiance apocalyptique qui se rapproche de l'enfer qui met l'utilisateur en position de faiblesse et lui fait penser qu'il ne peut plus s'échapper. Une musique sinistre est utilisée comme trame sonore.
 
 
 ## Installation en cours dans les studios (photos à l'appui)
